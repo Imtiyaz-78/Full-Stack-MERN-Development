@@ -1,0 +1,30 @@
+[
+  {
+    "name": "India",
+    "rank": 1,
+    "matches": [
+      { 
+        "vs": "England", 
+        "result": "Win" },
+      { 
+        "vs": "Australia",
+         "resul": "win" }
+    ]
+  },
+  {
+    "name": "Australia",
+    "rank": 3,
+    "matches": [
+      { "vs": "India", "result": "Loss" },
+      { "vs": "England", "result": "win" }
+    ]
+  },
+  {
+    "name": "England",
+    "rank": 2,
+    "matches": [
+      { "vs": "Australia", "result": "Loss" },
+      { "vs": "India", "result": "Loss" }
+    ]
+  }
+]
