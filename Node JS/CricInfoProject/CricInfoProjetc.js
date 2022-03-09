@@ -21,6 +21,14 @@ let path = require("path");
 // save teams to excel using excel4node
 // create folders and save pdf using pdf-lib
 
+
+
+// download Data using axios
+// Extract information using jsdom
+// manipulate data using array functions
+// save in excel using excel4node
+// create folders and prepare pdfs
+
 let args = minimist(process.argv);
 
 // browser => url to html (url se http request -> server ne html in http response)
