@@ -1,4 +1,3 @@
-
 Features to learn [https://javascript.info/]
 -----------------
 Output
@@ -44,6 +43,7 @@ Functions as constructors
 this
 arguments
 call, apply, bind
+prototype, constructor, typeof
 string ``
 Symbols
 Iterables
@@ -65,4 +65,4 @@ Activities
     Data Visualisation
     RobotJS = OS Automation
 
-
+ More array functions: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
