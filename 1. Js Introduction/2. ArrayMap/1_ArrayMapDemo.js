@@ -1,5 +1,5 @@
 
-// node 1_ArraysMapDemo.js
+// node 1_ArraysMapDemo.js fffff
 // Map is itself a fn
 // Map takes as input a callback fn (with v and i)
 // map will call the callback multiple times (once for each value)
