@@ -1,3 +1,6 @@
+
+// node 2_ArrayMapDemo.js
+
 let arr = [
     "Sumeet Malik",
     "Amit Malik",
@@ -7,7 +10,7 @@ let arr = [
     "Aryan Malik"
 ]
 
-let iarr = arr.map(function(name, i){
+let iarr = arr.map(function (name, i) {
     let partsofname = name.split(" ");
     let fname = partsofname[0];
     let lname = partsofname[1];
