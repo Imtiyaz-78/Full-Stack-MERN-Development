@@ -16,5 +16,10 @@ let sqarr = arr.map(function(v, i){
 });
 console.log(sqarr);
 
+// Other Way
 let sqarr2 = arr.map(v => v * v);
 console.log(sqarr2);
+
+// And more other Way 
+let sqarr3 = arr.map((v, i) => v * v);
+console.log(sqarr3);

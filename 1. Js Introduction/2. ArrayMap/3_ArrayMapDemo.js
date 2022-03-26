@@ -14,5 +14,6 @@ let oearr = arr.map(function(v, i){
 
 console.log(oearr);
 
+// Other Way and This is Best
 let oearr2 = arr.map(v => v % 2 == 0);
 console.log(oearr2);
