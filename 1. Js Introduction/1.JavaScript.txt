@@ -19,6 +19,7 @@ Arrays = shift, unshift
 Arrays = slice, splice
 Arrays = foreach
 Arrays = map, filter, some
+Arrays = custom function (Mymap, myFilter, myReduce, mySome)
 Arrays = find, findIndex
 Arrays = reduce
 

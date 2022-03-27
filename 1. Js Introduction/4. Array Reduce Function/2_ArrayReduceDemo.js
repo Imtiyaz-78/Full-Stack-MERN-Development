@@ -7,7 +7,25 @@ let val = arr.reduce(function(pv, cv, ci){
 
 console.log(val);
 
-let val2 = arr.reduce((pv, cv, ci) => pv + cv, 5);
+let val2 = arr.reduce((pv, cv, ci) => pv + cv, 5)
+; // 5 ek initial value hai array esme inintaila value 0 se start hota hai 
 console.log(val2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
